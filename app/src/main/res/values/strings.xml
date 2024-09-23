@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kiosk</string>
+    <string name="login">LOGIN</string>
+    <string name="register">회원 가입</string>
+    <string name="suchPW">비밀번호 찾기</string>
+    <string name="suchemail">이메일 찾기</string>
+</resources>
